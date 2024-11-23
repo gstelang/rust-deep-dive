@@ -5,4 +5,6 @@
 
 # Collections 
 # Concurrency
+# Ownership
+# Generics
 # Gotchas 
